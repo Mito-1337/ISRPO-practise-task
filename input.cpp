@@ -1,5 +1,4 @@
-#include <iostream>
 #include <stdio.h>
-
-
-using namespace std int inputs(a, b)
+// int x,y;
+// cin << x << y
+int inputs(int x, int y) { return x + y; }
