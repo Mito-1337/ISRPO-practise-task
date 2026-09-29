@@ -3,5 +3,8 @@
 using namespace std;
 
 int main() {
-    cout << "s" << "\n";
+  cout << "s" << "\n";
+
+  // часть миши
+  //
 }
