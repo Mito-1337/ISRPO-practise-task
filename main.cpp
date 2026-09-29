@@ -2,6 +2,4 @@
 
 using namespace std;
 
-int main() {
-    cout << "s" << "\n";
-}
+int main() { cout << "s" << "\n"; }
