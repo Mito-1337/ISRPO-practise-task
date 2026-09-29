@@ -1,11 +1,5 @@
 #include <iostream>
 
-
 using namespace std;
 
-int main() {
-  cout << "s" << "\n";
-
-  // часть миши
-  //
-}
+int main() { cout << "s" << "\n"; }
